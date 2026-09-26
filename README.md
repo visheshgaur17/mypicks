@@ -8,6 +8,12 @@
   A personal discovery and recommendation system for movies, shows, anime, K-dramas, and more.
 </p>
 
+<p align="center">
+  <a href=https://mypicks-ivory.vercel.app>
+    <strong>Live Demo</strong>
+  </a>
+</p>
+
 ---
 
 ## Overview
