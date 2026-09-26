@@ -541,7 +541,7 @@ function App() {
           </div>
 
           <span>
-            Movie Discovery
+            MyPicks
           </span>
 
         </div>
@@ -608,7 +608,8 @@ function App() {
         <div className="hero-content">
 
           <div className="hero-label">
-            PERSONAL MOVIE DISCOVERY
+              PERSONAL PICKS
+
           </div>
 
           <h1>

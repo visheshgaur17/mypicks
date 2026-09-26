@@ -1,10 +1,12 @@
+
 function Hero() {
   return (
     <section className="hero-section">
+
       <div className="hero-content">
 
         <p className="hero-eyebrow">
-          MOVIES · SHOWS · ANIME
+          MOVIES · SHOWS · ANIME · MORE
         </p>
 
         <h1>
@@ -19,6 +21,7 @@ function Hero() {
         </p>
 
         <div className="hero-actions">
+
           <button className="hero-primary-btn">
             Discover something
           </button>
@@ -26,11 +29,14 @@ function Hero() {
           <button className="hero-secondary-btn">
             Surprise me
           </button>
+
         </div>
 
       </div>
+
     </section>
   );
 }
 
 export default Hero;
+
